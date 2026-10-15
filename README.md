@@ -3,9 +3,8 @@
 
 <b>Discipline | Samir Kumar
 :--|:--|
-<b> Lab | Virtual Lab <b> Fill your lab name here
-<b> Experiment| Cell Balancing Control Strategies (passive vs Active monitoring)    <b> Fill your experiment name and number here
-
+<b> Lab | Virtual Lab 
+<b> Experiment| Cell Balancing Control Strategies (passive vs Active monitoring)   
 ### About the Experiment 
 
 Fill a brief description of this experiment here
