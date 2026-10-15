@@ -1,7 +1,7 @@
 ## Introduction
 
 
-<b>Discipline | Samir Kumar<b>Fill your discipline name here
+<b>Discipline | Samir Kumar
 :--|:--|
 <b> Lab | Virtual Lab <b> Fill your lab name here
 <b> Experiment| Cell Balancing Control Strategies (passive vs Active monitoring)    <b> Fill your experiment name and number here
@@ -13,7 +13,7 @@ Fill a brief description of this experiment here
 <b>Name of Developer | Samir Kumar<b> Fill the name of experiment owner here 
 :--|:--|
 <b> Institute | Rajkiya Engineering college Banda <b>  
-<b> Email id|     <b>  
+<b> Email id| samirkumar3050@gmail.com    <b>  
 <b> Department | Information Technology 
 
 ### Contributors List
